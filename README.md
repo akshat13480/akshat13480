@@ -1,62 +1,74 @@
-<h1 align="center">Hi 👋, I'm Akshat Vashistha</h1>
-<h3 align="center">A passionate individual with a deep interest in technology, coding and editing.</h3>
+<img width="950" height="950" alt="image" src="https://github.com/user-attachments/assets/dfbb72da-6c1b-4edd-a0ac-5aba8e4e3d1f" /><h1 align="center">Hi 👋, I'm Akshat Vashistha</h1>
+<h3 align="center">Frontend Developer | React Learner | Tech Enthusiast</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=akshat13480&label=Profile%20views&color=0e75b6&style=flat" alt="akshat13480" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akshat13480" alt="akshat13480" />
-  </a>
-</p>
+---
+
+### 🚀 About Me
+
+* 🎓 B.Tech Student at Galgotias University
+* 💻 Currently learning **React, JavaScript, and Frontend Development**
+* 🛠️ Building projects to improve real-world coding skills
+* 📈 Interested in **Web Development, Problem Solving, and Tech Innovations**
+
+---
+
+### 🧑‍💻 Current Focus
+
+* ⚛️ Mastering **React (Hooks, State, UI Design)**
+* 🎨 Improving **UI/UX with Tailwind CSS**
+* 🧠 Practicing **Data Structures & Algorithms (Java)**
+
+---
+
+### 📂 Projects
+
+* 📝 **React Notes App** – Add & delete notes dynamically using useState
+* 🎮 Multiplayer Tic Tac Toe (Socket + Node.js)
+* 🧩 Missionaries & Cannibals Game (JS Logic-based Project)
+
+---
+
+### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/your_twitter" target="blank">
-    <img src="https://img.shields.io/twitter/follow/your_twitter?logo=twitter&style=for-the-badge" alt="your_twitter" />
-  </a>
-</p>
-
-- 🌱 I’m currently learning **Java, Python, HTML, and CSS**
-
-- 📫 How to reach me: **akshatvashistha05@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/your_twitter" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
   <a href="https://www.linkedin.com/in/your_linkedin" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/your_instagram" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🛠️ Languages & Tools
+
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat13480&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshat13480&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat13480&layout=compact&theme=tokyonight" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat13480&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat13480&" alt="GitHub Streak" /></p>
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat13480&theme=tokyonight" />
+</p>
